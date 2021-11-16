@@ -1,0 +1,11 @@
+{
+    "files": ["src/index.tsx", "src/App.tsx"],
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "target": "es2015",
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": false
+    }
+  }
